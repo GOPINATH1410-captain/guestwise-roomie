@@ -52,6 +52,26 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				available: {
+					DEFAULT: 'hsl(var(--available))',
+					foreground: 'hsl(var(--available-foreground))'
+				},
+				occupied: {
+					DEFAULT: 'hsl(var(--occupied))',
+					foreground: 'hsl(var(--occupied-foreground))'
+				},
+				maintenance: {
+					DEFAULT: 'hsl(var(--maintenance))',
+					foreground: 'hsl(var(--maintenance-foreground))'
+				},
+				cleaning: {
+					DEFAULT: 'hsl(var(--cleaning))',
+					foreground: 'hsl(var(--cleaning-foreground))'
+				},
+				checkout: {
+					DEFAULT: 'hsl(var(--checkout))',
+					foreground: 'hsl(var(--checkout-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
